@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**Bhavye-Malhotra/Bhavye-Malhotra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Happy to see you here!** :star_struck: <br> The green dots on my [**GitHub** profile](https://github.com/Bhavye-Malhotra) represent my journey :running_man: - This is Bhavye Malhotra a reputed team member of zh3r0 . I have over 2 years’ experience in CyberSec . I am a computer geek by passion. 
 
-Here are some ideas to get you started:
+**Languages and Tools:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhavye-Malhotra&show_icons=true)
+
+Outside of [GitHub](https://github.com/Bhavye-Malhotra/), 
+You can find me. Currently I'm **free to contribute**
+
+[![Twitter: MianJawadAhmad](https://img.shields.io/twitter/follow/_wh1t3r0se_?style=social)](https://twitter.com/_wh1t3r0se_)
+[![Linkedin: MianJawadAhmad](https://img.shields.io/badge/-BhavyeMalhotra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/Bhavye-M)](https://www.linkedin.com/in/Bhavye-M/)
+[![GitHub MianJawadAhmad](https://img.shields.io/github/followers/Bhavye-Malhotra?label=follow&style=social)](https://github.com/Bhavye-Malhotra)
+<p><a href="http://www.bhavye-malhotra.ml/">🌐 Check out my website</a></p>
