@@ -15,7 +15,7 @@
 Outside of [GitHub](https://github.com/Bhavye-Malhotra/), 
 You can find me. Currently I'm **free to contribute**
 
-[![Twitter: MianJawadAhmad](https://img.shields.io/twitter/follow/_wh1t3r0se_?style=social)](https://twitter.com/_wh1t3r0se_)
-[![Linkedin: MianJawadAhmad](https://img.shields.io/badge/-BhavyeMalhotra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/Bhavye-M)](https://www.linkedin.com/in/Bhavye-M/)
-[![GitHub MianJawadAhmad](https://img.shields.io/github/followers/Bhavye-Malhotra?label=follow&style=social)](https://github.com/Bhavye-Malhotra)
+[![Twitter: BhavyeMalhotra](https://img.shields.io/twitter/follow/wh1t3r0se_?style=social)](https://twitter.com/wh1t3r0se_)
+[![Linkedin: BhavyeMalhotra](https://img.shields.io/badge/-BhavyeMalhotra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/Bhavye-M)](https://www.linkedin.com/in/Bhavye-M/)
+[![GitHub BhavyeMalhotra](https://img.shields.io/github/followers/Bhavye-Malhotra?label=follow&style=social)](https://github.com/Bhavye-Malhotra)
 <p><a href="http://www.bhavye-malhotra.ml/">🌐 Check out my website</a></p>
