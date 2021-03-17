@@ -10,7 +10,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhavye-Malhotra&theme=merko&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhavye-Malhotra&theme=chartreuse-dark&show_icons=true)
 
 Outside of [GitHub](https://github.com/Bhavye-Malhotra/), 
 You can find me. Currently I'm **free to contribute**
